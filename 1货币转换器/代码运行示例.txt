@@ -1,0 +1,17 @@
+=== 货币换算器 (ExchangeRate-API) ===
+例如：USD 美元, CNY 人民币, EUR 欧元, JPY 日元 等
+请输入源货币代码(如 USD)：USD
+需要查看支持的目标货币列表吗？(y/n)：y
+支持的目标货币（基于 USD）：
+AED, AFN, ALL, AMD, ANG, AOA, ARS, AUD, AWG, AZN, BAM, BBD, BDT, BGN, BHD, BIF, BMD, BND, BOB, BRL, BSD, BTN, BWP, BYN, BZD, CAD, CDF, CHF, CLP, CNY, COP, CRC, CUP, CVE, CZK, DJF, DKK, DOP, DZD, EGP, ERN, ETB, EUR, FJD, FKP, FOK, GBP, GEL, GGP, GHS, GIP, GMD, GNF, GTQ, GYD, HKD, HNL, HRK, HTG, HUF, IDR, ILS, IMP, INR, IQD, IRR, ISK, JEP, JMD, JOD, JPY, KES, KGS, KHR, KID, KMF, KRW, KWD, KYD, KZT, LAK, LBP, LKR, LRD, LSL, LYD, MAD, MDL, MGA, MKD, MMK, MNT, MOP, MRU, MUR, MVR, MWK, MXN, MYR, MZN, NAD, NGN, NIO, NOK, NPR, NZD, OMR, PAB, PEN, PGK, PHP, PKR, PLN, PYG, QAR, RON, RSD, RUB, RWF, SAR, SBD, SCR, SDG, SEK, SGD, SHP, SLE, SLL, SOS, SRD, SSP, STN, SYP, SZL, THB, TJS, TMT, TND, TOP, TRY, TTD, TVD, TWD, TZS, UAH, UGX, USD, UYU, UZS, VES, VND, VUV, WST, XAF, XCD, XCG, XDR, XOF, XPF, YER, ZAR, ZMW, ZWL
+请输入目标货币代码(如 CNY)：CNY
+请输入金额(正数)：10000
+10000.00 USD ≈ 71440.0000 CNY
+是否继续换算？(y/n)：y
+请输入源货币代码(如 USD)：ZYY
+需要查看支持的目标货币列表吗？(y/n)：n
+请输入目标货币代码(如 CNY)：LRQ
+请输入金额(正数)：1200
+网络或API请求错误：404 Client Error: Not Found for url: https://v6.exchangerate-api.com/v6/a6496532f7acb07cd3cfe78a/latest/ZYY
+是否继续换算？(y/n)：e
+已退出。
