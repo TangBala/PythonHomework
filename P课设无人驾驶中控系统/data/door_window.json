@@ -1,0 +1,9 @@
+{
+    "doors_locked": false,
+    "windows_status": {
+        "front_left": 0,
+        "front_right": 0,
+        "rear_left": 0,
+        "rear_right": 0
+    }
+}
